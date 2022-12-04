@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    background: url('https://c0.wallpaperflare.com/preview/198/135/731/cyber-attack-abstract-access.jpg');
+    background-size: cover;
+    display: flex;
+    font-family: karla;
+}
+
+#container {
+    background: #0d2149;
+    width: 550px;
+    height: 550px;
+    margin: auto;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+#title-white {
+    color: white;
+    margin-top: 85px;
+    line-height: 20px;
+}
+
+#title-green {
+    color: #4ADF86;
+    line-height: 20px;
+}
+
+.text {
+    margin-left: 52px;
+}
+
+p {
+    color: white;
+    line-height: 28px;
+}
+
+#generate-pass-btn {
+    font-size: 16px;
+    margin-left: 52px;
+    margin-top: 51px;
+    padding: 9px 17px 9px 17px;
+    border-radius: 6px;
+    border: none;
+    background: #10B981;
+    color: white;
+}
+
+#pass-btn-one {
+    height: 39px;
+    width: 211px;
+    margin-left: 52px;
+    margin-top: 70px;
+    background: #273549;
+    color: #55F991;
+    border: 1px solid #55F991;
+    border-radius: 6px;
+    padding: 4px 15px;
+}
+
+#pass-btn-two {
+    height: 39px;
+    width: 211px;
+    margin-left: 24px;
+    background: #273549;
+    color: #55F991;
+    border: none;
+    border-radius: 6px;
+    padding: 4px 15px;
+    border: 1px solid #55F991;
+}
+
+#reset-btn {
+    margin-top: 55px;
+    margin-left: 52px;
+    border-radius: 4px;
+    padding: 9px 12px;
+    border: none;
+    background: #10B981;
+    color: white;
+}
